@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Scanner;
-
+//server socket
 public class Main2 {
     public static void main(String[] args) throws IOException {
         try (ServerSocket serverSocket = new ServerSocket(8189);
